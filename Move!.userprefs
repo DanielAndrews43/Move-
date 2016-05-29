@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/scr.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScreenHopper.cs" Line="42" Column="36" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="28" Column="103" />
+      <File FileName="Assets/Scripts/GameController.cs" Line="26" Column="8" />
+      <File FileName="Assets/Scripts/scr.cs" Line="11" Column="2" />
+      <File FileName="Assets/Scripts/LeaderboardScript.cs" Line="12" Column="21" />
+      <File FileName="Assets/Scripts/SetScores.cs" Line="12" Column="58" />
+      <File FileName="Assets/Iloveyou.cs" Line="8" Column="22" />
+      <File FileName="Assets/ihateyou.cs" Line="13" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/danielandrews/Move!/Temp/bin/Debug/UnityEngine.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/UnityEditor.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/Mono.Cecil.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/Unity.DataContract.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/danielandrews/Move!/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/danielandrews/Move!/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/danielandrews/Move!/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/danielandrews/Move!/obj/Debug/Assembly-CSharp.dll
+/Users/danielandrews/Move!/obj/Debug/Assembly-CSharp.dll.mdb
